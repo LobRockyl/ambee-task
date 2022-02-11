@@ -12,6 +12,20 @@
 ## Prerequisites
 - Git
 - NodeJS
-- CLI
+- Docker
 
 ## Installation
+```
+git clone https://github.com/LobRockyl/ambee-task.git
+cd ambee-task
+npm i
+
+```
+## Normal Run
+```
+npm start
+```
+## Docker Run
+```
+docker-compose up
+```
